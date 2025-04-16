@@ -1,0 +1,12 @@
+1. Open Terminal (Linux/Mac) or Git Bash (Windows)
+2. Navigate to the location where you want to create the repository
+3. Create a new folder named as your enrollment number  Replace ENROLLMENT_NO with your actual number.
+4. Initialize it as a Git repository
+5. Create two folders: assignment1 and assignment2 bash Copy Edit
+6. Add the folders to Git staging area
+7. Commit the changes
+8. (Optional) Push to GitHub
+  If you want to upload this to GitHub:
+  Create a repository on GitHub with the same name (ENROLLMENT_NO)
+  then connect it using:
+  
